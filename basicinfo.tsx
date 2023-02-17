@@ -8,6 +8,6 @@ let yourPronouns : String = "He, him";
 const yourMajor : String = "Computer Science";
 let classification : String = "soph";
 let oneExcite : String = "The last project";
-let anyConcerns : String = "the online learning";
+let anyConcerns : String = "the online learning and seeking help with it";
 let funFact : String = "I am from wilmington";
 */
